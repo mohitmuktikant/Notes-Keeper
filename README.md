@@ -1,0 +1,2 @@
+- Developed a user-friendly note-taking application with intuitive features for creating, updating, and deleting notes.
+- Leveraged React JS to optimize application performance and deliver a high response rate.
